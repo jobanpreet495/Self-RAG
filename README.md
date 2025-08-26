@@ -1,4 +1,5 @@
 # Self-RAG: Self-Reflective Retrieval-Augmented Generation
+Python implementation of Self-RAG based on the Paper - https://arxiv.org/pdf/2310.11511
 
 ## 🚀 Overview
 
