@@ -136,3 +136,7 @@ Query → Should Retrieve?
          ↓
     No → Generate Direct Response → Assess Utility
 ```
+
+
+## Architecture 
+![Alt text](self-RAG.png)
